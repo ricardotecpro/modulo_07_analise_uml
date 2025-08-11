@@ -23,3 +23,7 @@ Existe uma distinção importante, embora por vezes sutil, entre análise e desi
 ### O Foco da Modelagem Conceitual 🎯
 
 A **Modelagem Conceitual** que é objeto de estudo se situa no **nível de Análise**. No entanto, na prática, ela frequentemente "invade" alguns aspectos do nível de Design, como a especificação de tipos de dados e preocupações com normalização, para facilitar a transição para a implementação.
+
+---
+
+### [ricardotecpro.github.io](https://ricardotecpro.github.io/)
