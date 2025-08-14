@@ -1,3 +1,5 @@
+# Modelagem UML
+
 O **domínio** 🎯 de um sistema é a área de negócio que está sendo observada. A **modelagem de domínio** é o processo de criar um modelo que descreve as entidades desse domínio e as inter-relações entre elas.
 
 A modelagem de domínio ocorre principalmente durante as fases de **Modelagem de Negócio (Business Modelling)**, **Requisitos (Requirements)** e **Análise e Design (Analysis & Design)** do desenvolvimento de software.
